@@ -8,7 +8,7 @@ Get all the projects requirements
 1. ```pip freeze > requirements.txt```
 
 
-Install the requirements\
+Install the requirements\\
 2. ``` pip install -r requirements.txt```
 
 
