@@ -1,4 +1,4 @@
-# django
+# django-app
 Django-Marcus
 
 Run the following commands respectively in the project's directory.
@@ -10,7 +10,6 @@ Run the following commands respectively in the project's directory.
 2. ``` pip install -r requirements.txt```
 
 ### Create SQLite databse, run migrations
-cd to app dir & run;
 
 1. ```python manage.py migrate```
 
