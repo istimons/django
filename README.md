@@ -25,7 +25,7 @@ Navigate to:
 
 #### Change the following to link to videos after pasting the videos in ```django/djangoSite/static/media/```
 
-Replace with video file name e.g.(myvideo.mp4)
+Replace the instances below with video file name e.g.(myvideo.mp4)
 
 
-```PATH_TO_MP4_VIDEO_FILE'```
+```PATH_TO_MP4_VIDEO_FILE```
