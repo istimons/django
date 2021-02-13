@@ -11,11 +11,12 @@ Run the following commands respectively in the project's directory.
 
 
 # Changes
+
+#### Create ```media``` dir in ```django/djangoSite/static/``` an paste video files
+
 Navigate to:
 
 ```django/djangoSite/contentApp/templates/contentApp/videos.html```
-
-#### Change the following to link to videos after pasting the videos in ```django/djangoSite/static/media/```
 
 Replace the instances below with video file name e.g.(myvideo.mp4)
 
@@ -31,3 +32,4 @@ Replace the instances below with video file name e.g.(myvideo.mp4)
 
 
 
+Best
