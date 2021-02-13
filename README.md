@@ -1,6 +1,13 @@
 # django
 Django-Marcus
 
-run the following commands respectively
+Run the following commands respectively in the project's directory.
 
-```https://mattsegal.dev/django-portable-setup.html```
+
+get all the projects requirements
+1. ```pip freeze > requirements.txt```
+
+install the requirements
+2. ``` pip install -r requirements.txt```
+
+
